@@ -2,7 +2,7 @@
  Simple Python app for creating bar chart races
 
 ------
-
+![](/animations/demo.gif)
 ##### TODO:
 
 - [ ] add neat excel parser for auto-generation of .csv files
@@ -12,7 +12,7 @@
 
 ##### Requires:
 
-- [ ] pip install bar-chart-race, pandas, matplotlib
+- [ ] ```sh pip install bar-chart-race, pandas, matplotlib ```
 - [ ] manually add ffmpeg binaries and set Environment variable for ffmpeg/bin
 
 
