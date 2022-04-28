@@ -12,7 +12,7 @@
 
 ##### Requires:
 
-- [ ] ```sh pip install bar-chart-race, pandas, matplotlib ```
+- [ ] ```pip install bar-chart-race, pandas, matplotlib ```
 - [ ] manually add ffmpeg binaries and set Environment variable for ffmpeg/bin
 
 
