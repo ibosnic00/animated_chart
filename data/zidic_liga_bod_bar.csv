@@ -1,0 +1,131 @@
+Kolo,Ekipa,Bodovi,Postignuti Golovi,Primljeni Golovi,Gol Razlika
+1,KNKP,0,3,13,-10
+1,Ima i gorih,3,6,5,1
+1,Samo Spinut,3,4,3,1
+1,UB Nozevi,0,0,8,-8
+1,MNK Cunoglavci,0,3,4,-1
+1,NK Cuture,0,2,10,-8
+1,Los Kostolomikos,3,10,2,8
+1,Matina Kola,3,13,3,10
+1,Bugarske skitnice,0,5,6,-1
+1,HNK Pegalj,3,8,0,8
+2,KNKP,0,3,21,-18
+2,Ima i gorih,6,14,5,9
+2,Samo Spinut,6,7,4,3
+2,UB Nozevi,0,0,16,-16
+2,MNK Cunoglavci,0,7,11,-4
+2,NK Cuture,3,10,17,-7
+2,Los Kostolomikos,6,18,2,16
+2,Matina Kola,3,20,11,9
+2,Bugarske skitnice,3,12,10,2
+2,HNK Pegalj,3,9,3,6
+3,KNKP,0,6,30,-24
+3,Ima i gorih,9,19,5,14
+3,Samo Spinut,9,15,9,6
+3,UB Nozevi,0,5,24,-19
+3,MNK Cunoglavci,3,16,14,2
+3,NK Cuture,3,10,23,-13
+3,Los Kostolomikos,9,23,6,17
+3,Matina Kola,3,24,16,8
+3,Bugarske skitnice,4,16,14,2
+3,HNK Pegalj,4,13,7,6
+4,KNKP,3,10,31,-21
+4,Ima i gorih,9,28,17,11
+4,Samo Spinut,12,21,12,9
+4,UB Nozevi,0,10,34,-24
+4,MNK Cunoglavci,6,24,20,4
+4,NK Cuture,3,16,31,-15
+4,Los Kostolomikos,9,26,12,14
+4,Matina Kola,6,36,25,11
+4,Bugarske skitnice,7,26,19,7
+4,HNK Pegalj,4,14,11,3
+5,KNKP,6,18,31,-13
+5,Ima i gorih,12,34,22,12
+5,Samo Spinut,15,31,19,12
+5,UB Nozevi,0,10,42,-32
+5,MNK Cunoglavci,6,32,32,0
+5,NK Cuture,6,27,35,-8
+5,Los Kostolomikos,9,31,18,13
+5,Matina Kola,9,48,33,15
+5,Bugarske skitnice,7,33,29,4
+5,HNK Pegalj,4,18,22,-4
+6,KNKP,6,22,41,-19
+6,Ima i gorih,15,39,26,13
+6,Samo Spinut,18,41,23,18
+6,UB Nozevi,1,14,46,-32
+6,MNK Cunoglavci,6,36,37,-1
+6,NK Cuture,7,31,39,-8
+6,Los Kostolomikos,9,33,21,12
+6,Matina Kola,12,52,36,16
+6,Bugarske skitnice,10,36,31,5
+6,HNK Pegalj,4,21,26,-5
+7,KNKP,6,29,53,-24
+7,Ima i gorih,18,45,28,17
+7,Samo Spinut,18,45,30,15
+7,UB Nozevi,1,22,56,-34
+7,MNK Cunoglavci,6,41,43,-2
+7,NK Cuture,10,38,43,-5
+7,Los Kostolomikos,12,39,26,13
+7,Matina Kola,15,62,44,18
+7,Bugarske skitnice,13,48,38,10
+7,HNK Pegalj,4,23,32,-9
+8,KNKP,6,29,61,-32
+8,Ima i gorih,21,54,34,20
+8,Samo Spinut,21,52,34,18
+8,UB Nozevi,1,28,65,-37
+8,MNK Cunoglavci,6,45,49,-4
+8,NK Cuture,10,41,53,-12
+8,Los Kostolomikos,15,47,26,21
+8,Matina Kola,15,66,51,15
+8,Bugarske skitnice,16,58,41,17
+8,HNK Pegalj,7,29,36,-7
+9,KNKP,6,29,69,-40
+9,Ima i gorih,24,65,42,23
+9,Samo Spinut,21,60,45,15
+9,UB Nozevi,1,28,73,-45
+9,MNK Cunoglavci,9,53,49,4
+9,NK Cuture,13,49,53,-4
+9,Los Kostolomikos,18,50,28,22
+9,Matina Kola,15,70,76,-6
+9,Bugarske skitnice,19,83,45,38
+9,HNK Pegalj,7,31,39,-8
+10,KNKP,6,29,69,-40
+10,Ima i gorih,27,78,49,29
+10,Samo Spinut,24,69,48,21
+10,UB Nozevi,1,28,73,-45
+10,MNK Cunoglavci,10,60,56,4
+10,NK Cuture,13,49,61,-12
+10,Los Kostolomikos,21,58,28,30
+10,Matina Kola,15,73,85,-12
+10,Bugarske skitnice,19,90,58,32
+10,HNK Pegalj,8,38,46,-8
+11,KNKP,6,29,69,-40
+11,Ima i gorih,27,81,58,23
+11,Samo Spinut,27,79,52,27
+11,UB Nozevi,1,28,73,-45
+11,MNK Cunoglavci,13,66,59,7
+11,NK Cuture,13,52,67,-15
+11,Los Kostolomikos,24,67,31,36
+11,Matina Kola,15,76,93,-17
+11,Bugarske skitnice,19,94,68,26
+11,HNK Pegalj,11,46,49,-3
+12,KNKP,6,29,69,-40
+12,Ima i gorih,30,101,61,40
+12,Samo Spinut,30,85,55,30
+12,UB Nozevi,1,28,73,-45
+12,MNK Cunoglavci,13,69,65,4
+12,NK Cuture,13,55,73,-18
+12,Los Kostolomikos,27,75,31,44
+12,Matina Kola,15,79,113,-34
+12,Bugarske skitnice,19,94,76,18
+12,HNK Pegalj,14,52,52,0
+13,KNKP,6,29,69,-40
+13,Ima i gorih,30,105,66,39
+13,Samo Spinut,33,89,57,32
+13,UB Nozevi,1,28,73,-45
+13,MNK Cunoglavci,16,73,69,4
+13,NK Cuture,16,66,82,-16
+13,Los Kostolomikos,30,83,35,48
+13,Matina Kola,15,83,121,-38
+13,Bugarske skitnice,19,103,87,16
+13,HNK Pegalj,14,54,56,-2
